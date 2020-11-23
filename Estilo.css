@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Bitter&display=swap');
+header{
+  background: #ff8080;
+  color:#fff;
+  display: flex;
+  padding: 0px;
+}
+.visivel{
+	display: block;
+}
+.invisivel{
+	display: none;
+}
+#home{
+  display: none;
+}
+#inicio{
+	display: block;
+}
+#lixo{
+  display: none;
+}
+#coleta{
+  display: none;
+}
+#recicle{
+	display: none;
+}
+#preucupa{
+	display: none;
+}
+h1{
+	font-family: 'Bitter', serif;
+	text-align:center;
+}
